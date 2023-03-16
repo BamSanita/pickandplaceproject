@@ -1,0 +1,1 @@
+pyuic5 -x readfile.ui -o readfile4.py
